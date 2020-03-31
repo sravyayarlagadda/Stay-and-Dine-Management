@@ -7,11 +7,6 @@
 #include<stdlib.h>
 #include<time.h>
 
-
-
-void administration(void);
-void customer(void);
-
 void addrecord(void);
 void deleterecord(void);
 void searchrecord(void);
