@@ -7,9 +7,7 @@
 #include<stdlib.h>
 #include<time.h>
 
-void returnfunc(void);
 
-void dinemanagement(void);
 
 void administration(void);
 void customer(void);
